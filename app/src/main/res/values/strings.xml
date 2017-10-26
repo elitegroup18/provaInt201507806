@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Marcosteodoro</string>
+    <string name="tx_lim_tabuada" />
+    <string name="tx_num_tabuada" />
+    <string name="tabuada" />
+    <string name="ate" />
 </resources>
